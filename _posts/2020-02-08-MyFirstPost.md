@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "One man One life"
+date: 2020-02-08
 ---
 
 
