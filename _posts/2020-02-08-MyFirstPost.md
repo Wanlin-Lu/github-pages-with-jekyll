@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "One man, One life"
+title: "One man One life"
 ---
 
 
 # One man,one Life
+
 Every one has one chance to live,to enjoy,to waste.
